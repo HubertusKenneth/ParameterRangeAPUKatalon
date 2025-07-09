@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DATA PERSETUJUAN RANGE APUPPT</name>
+   <tag></tag>
+   <elementGuidId>7f02047a-9fb4-4209-bfc9-75c9358720b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.Label-CAPTION:ac:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;DATA PERSETUJUAN RANGE APU/PPT&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>362bfe1c-32c0-4286-9ed7-7324260b4a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>ff915d93-dbf5-4238-80a5-2b5848c87401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Label-CAPTION:ac:</value>
+      <webElementGuid>4c1935c1-ec49-48b8-b17e-13283fc758ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-label-caption     xui-custom</value>
+      <webElementGuid>d737672f-ac12-4e05-b2fd-9fd82cfdf691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DATA PERSETUJUAN RANGE APU/PPT</value>
+      <webElementGuid>ad30d492-1297-49ee-b72d-b3a2da1dfb08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Label-CAPTION:ac:&quot;)</value>
+      <webElementGuid>9d0a1899-6792-485e-818f-e8591bce8cdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.Label-CAPTION:ac:']</value>
+      <webElementGuid>717a8cda-73e4-4681-97af-8061900b0b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='xui.UI.Label:ac:']/span[3]</value>
+      <webElementGuid>1ab3ff7d-ed81-40ff-ba21-8c7e297d1721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hidden'])[1]/following::span[8]</value>
+      <webElementGuid>b3274ef4-6e99-4792-9889-b0d903da0e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Lama'])[1]/following::span[21]</value>
+      <webElementGuid>1dc56cf1-2aff-45e0-8e3a-4a6840ec6cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST'])[2]/preceding::span[3]</value>
+      <webElementGuid>15848f11-6f2f-483c-9016-707a5285eeff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori*'])[2]/preceding::span[6]</value>
+      <webElementGuid>b903192e-8c78-4635-91ac-02679692938b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DATA PERSETUJUAN RANGE APU/PPT']/parent::*</value>
+      <webElementGuid>d174a610-9e59-45c4-ab6a-fb539d4dc520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span[3]</value>
+      <webElementGuid>edab3b3b-1e76-4c96-b893-82e36a8419cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.Label-CAPTION:ac:' and (text() = 'DATA PERSETUJUAN RANGE APU/PPT' or . = 'DATA PERSETUJUAN RANGE APU/PPT')]</value>
+      <webElementGuid>bfffeeef-934e-4deb-87bd-30fb0fd55968</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

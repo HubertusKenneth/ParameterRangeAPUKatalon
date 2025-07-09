@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ExitSign InUsernamePasswordUI ThemeFont_6cefff</name>
+   <tag></tag>
+   <elementGuidId>93008312-2126-4ea8-ba32-58ebe25dee99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.Dialog-PANEL:d:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ExitSign InUsernamePasswordUI ThemeDefault ThemeFont SizeForgot Password ?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e7b5a651-18cd-46e2-adc7-1b6e23c1f112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Dialog-PANEL:d:</value>
+      <webElementGuid>62ddf2c1-9da1-48d2-849a-6f51041ee813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-dialog-panel xui-uibar xui-uicontainer xui-custom xui-css-noscrollx</value>
+      <webElementGuid>108726df-7f18-47f4-a6a2-886328fc715e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ExitSign InUsernamePasswordUI ThemeFont SizeForgot Password ?</value>
+      <webElementGuid>7a71d9ea-fdd0-44ad-ace3-d370ace60f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Dialog-PANEL:d:&quot;)</value>
+      <webElementGuid>d6f72b71-fd11-4005-90e6-95330621a308</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Dialog-PANEL:d:']</value>
+      <webElementGuid>0379b77e-6fea-48ee-b9fe-3cc2f6b7f50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Dialog-MAINI:d:']/div</value>
+      <webElementGuid>7f8db6c4-426d-436b-8809-7c2828193eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIGN IN'])[1]/following::div[5]</value>
+      <webElementGuid>4b6b1f77-4b90-4089-a859-865d77ca3589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Preferences'])[2]/following::div[20]</value>
+      <webElementGuid>25b472fe-a33b-414c-bdec-c565fef6c75b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[11]/span/span/div[2]/div/div</value>
+      <webElementGuid>3c499c3b-5543-4118-b52c-97ceda4d27c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.Dialog-PANEL:d:' and (text() = 'ExitSign InUsernamePasswordUI ThemeFont SizeForgot Password ?' or . = 'ExitSign InUsernamePasswordUI ThemeFont SizeForgot Password ?')]</value>
+      <webElementGuid>75dfed1c-73e9-410d-b94b-6cc4efb363a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
