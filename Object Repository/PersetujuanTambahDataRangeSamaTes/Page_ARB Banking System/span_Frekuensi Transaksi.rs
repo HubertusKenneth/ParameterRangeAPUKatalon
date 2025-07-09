@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Frekuensi Transaksi</name>
+   <tag></tag>
+   <elementGuidId>0ed1364e-372b-4613-8a60-0cb1f73d5e7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.TreeGrid-CELLCAPTION:a:-c_c']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ctl_tabMNPM0015 >> internal:text=&quot;Frekuensi Transaksi&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ca116386-4fa3-42e0-a17d-0088c199a612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.TreeGrid-CELLCAPTION:a:-c_c</value>
+      <webElementGuid>e08ae5c3-0309-40d5-850e-369a7ba8bcd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-treegrid-cellcaption xui-v-node     xui-custom</value>
+      <webElementGuid>a5717618-f9b8-4381-be08-3f3c8ba9fbc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Frekuensi Transaksi</value>
+      <webElementGuid>00d170b2-8be3-4a42-80a4-d6e2ad214b5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.TreeGrid-CELLCAPTION:a:-c_c&quot;)</value>
+      <webElementGuid>58e3f172-eecc-42bb-ac45-15191a49f29e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.TreeGrid-CELLCAPTION:a:-c_c']</value>
+      <webElementGuid>3b99cf13-a6ae-40aa-8514-590284ce4607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.TreeGrid-CELLA:a:-c_c']/span</value>
+      <webElementGuid>9f2d4a51-49d6-457c-9829-da49ec6aa2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/following::span[3]</value>
+      <webElementGuid>bbf06662-4652-4b69-b56e-9893523f1fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='code'])[1]/following::span[20]</value>
+      <webElementGuid>7f111986-a456-4402-8f4f-eedff6887763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TINGGI'])[1]/preceding::span[7]</value>
+      <webElementGuid>a0fe6939-2102-453f-afae-15a1b644c718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUBERTUS'])[1]/preceding::span[19]</value>
+      <webElementGuid>58f4cc6b-ea76-42a1-b9bf-3e991b9d7247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Frekuensi Transaksi']/parent::*</value>
+      <webElementGuid>4237d6a2-4b62-4c0b-9926-f08897d43b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div/div/div/span/span/span</value>
+      <webElementGuid>959ad0b5-7ded-4153-ab64-7a1a465ab429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.TreeGrid-CELLCAPTION:a:-c_c' and (text() = 'Frekuensi Transaksi' or . = 'Frekuensi Transaksi')]</value>
+      <webElementGuid>2f0a22cc-6253-4f9e-860c-f1c1d4041737</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
